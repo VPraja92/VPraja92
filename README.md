@@ -1,4 +1,4 @@
-# Hi, I'm Vi 👋
+# Hi, I'm Vishal 👋
 
 Data analytics professional based in Pune, India. I work with Python, SQL, Excel, Power BI and Tableau.
 
